@@ -1,0 +1,33 @@
+/* PHASE 4: Footer */
+.footer{
+  display: flex;
+  justify-content: space-between;
+  width: 900px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-top: 0px;
+  background-color: white;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+  color: #ccc
+}
+
+.copyright{
+  /* background-color: orange; */
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.footer-nav{
+  /* background-color: blue; */
+  display: flex;
+  align-items: center;
+}
+
+.footer-nav li{
+  display: inline;
+  margin: 10px;
+  /* color: #ccc */
+  
+}
